@@ -1,8 +1,0 @@
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\obj\x86\Debug\2015.1006.homework01.csprojResolveAssemblyReference.cache
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\obj\x86\Debug\_2015._1006.homework01.Form1.resources
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\obj\x86\Debug\_2015._1006.homework01.Properties.Resources.resources
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\obj\x86\Debug\2015.1006.homework01.csproj.GenerateResource.Cache
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\bin\Debug\2015.1006.homework01.exe
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\bin\Debug\2015.1006.homework01.pdb
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\obj\x86\Debug\2015.1006.homework01.exe
-C:\Users\1323092\documents\visual studio 2010\Projects\2015.1006.homework01\obj\x86\Debug\2015.1006.homework01.pdb
